@@ -1,2 +1,2 @@
 # 图床
-**Markdown图片储存库
+**Markdown图片储存库**
