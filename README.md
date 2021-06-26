@@ -6,4 +6,4 @@
 ## 链接
 **Github**:```https://github.com/iwenyi/tuchuang/blob/main```
 
-**jsDelivr**:```https://cdn.jsdelivr.net/gh/imwenyi/tuchuang@main/```
+**jsDelivr**:```https://cdn.jsdelivr.net/gh/iwenyi/tuchuang@main/```
